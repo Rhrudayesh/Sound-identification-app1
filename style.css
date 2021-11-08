@@ -1,0 +1,50 @@
+.div1{
+    background-color:palegoldenrod;
+}
+#heading4{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Sans Mono', monospace;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+    font-family: 'Zen Kaku Gothic New', sans-serif; 
+}
+#heading2{
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Sans Mono', monospace;
+font-family: 'PT Sans', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+font-family: 'Zen Kaku Gothic New', sans-serif;
+}
+.div2{
+    background-color:oldlace;
+}
+#but1{
+    background-color:cyan;
+    color:black;
+    font-family:monospace;
+    height: 35px;
+    width: 100px;
+    border: 3px solid goldenrod;
+}
+.para1{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Sans Mono', monospace;
+font-family: 'PT Sans', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Titillium Web', sans-serif;
+font-family: 'Zen Kaku Gothic New', sans-serif;
+}
+#heading3{
+    font-family: 'Ubuntu', sans-serif;
+color: red;
+text-shadow: 2px 2px #4bbdaf;
+
+}
+
+#div3{
+    background-color: white;
+}
